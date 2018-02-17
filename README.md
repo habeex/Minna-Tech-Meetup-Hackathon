@@ -18,7 +18,7 @@ Minna Technology Meet up 6.0 is a forum where like minds converge is to discuss 
   
    ## General Requirement
 •	User Interface
-•	Functionality
+•	App Functionality
 •	Code structure
 
  ### Note: 
