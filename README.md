@@ -16,11 +16,12 @@ Minna Technology Meet up 6.0 is a forum where like minds converge is to discuss 
  Build News App using [Newsapi.org](https://newsapi.org/) 
   Mobile and Web App.
   
-    #General Requirements:
+   ## General Requirement
 •	User Interface
 •	Functionality
 •	Code structure
 
-Note: Hackathon is also set up to test your ability because you might be called up to join a marvelous Team to solve variety of problems in Niger State and in Nigeria as a whole.
+ ### Note: 
+ Hackathon is also set up to test your ability because you might be called up to join a marvelous Team to solve variety of problems in Niger State and in Nigeria as a whole.
 
 
